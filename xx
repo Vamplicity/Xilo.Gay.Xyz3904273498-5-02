@@ -511,12 +511,12 @@ game:GetService("RunService").Heartbeat:Connect(
         end
         if getgenv().trashtalkl then
             game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
-                "yun on top👑👑",
+                "Xilory On Top",
                 "All"
             )
             wait(1)
             game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
-                ".gg/yun👑👑",
+                "Xilory👑👑",
                 "All"
             )
             wait(1)
